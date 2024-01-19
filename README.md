@@ -27,22 +27,15 @@
 
   <h4> </h4>
   
-#### Just download and run [Install.bat](https://raw.githack.com/amd64fox/SpotX/main/Install_New_theme.bat)
+#### Just download and run [Install.bat](https://github.com/StanHardy/SpotS/raw/main/Install_New_theme.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -new_theme"
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/StanHardy/SpotS/main/run.ps1') } -new_theme"
 ```
-
-#### mirror
-
-```ps1
-iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -new_theme"
-```
-
 </details>
   
 
@@ -57,22 +50,15 @@ iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -new_theme
 
   <h4> </h4>
   
-#### Just download and run [Install.bat](https://raw.githack.com/amd64fox/SpotX/main/Install_Old_theme.bat)
+#### Just download and run [Install.bat](https://raw.githubusercontent.com/StanHardy/SpotS/main/Install_Old_theme.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -v 1.2.13.661.ga588f749-4064 -confirm_spoti_recomended_over -block_update_on"
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/StanHardy/SpotS/main/run.ps1') } -v 1.2.13.661.ga588f749-4064 -confirm_spoti_recomended_over -block_update_on"
 ```
-
-#### mirror
-
-```ps1
-iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -v 1.2.13.661.ga588f749-4064 -confirm_spoti_recomended_over -block_update_on"
-```
-
 </details>
  
 <details>
@@ -92,22 +78,15 @@ iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -v 1.2.13.
   
 <h4> </h4>
 
-#### Just download and run [Install_Auto.bat](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat)
+#### Just download and run [Install_Auto.bat](https://raw.githubusercontent.com/StanHardy/SpotS/main/scripts/Install_Auto.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/StanHardy/SpotS/main/run.ps1') } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
 ```
-
-#### mirror
-
-```ps1
-iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
-```
-
 </details>
 
 <details>
@@ -124,22 +103,15 @@ iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -confirm_u
 
   <h4> </h4>
   
-#### Just download and run [Install_Prem.bat](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Prem.bat)
+#### Just download and run [Install_Prem.bat](https://raw.githubusercontent.com/StanHardy/SpotS/main/scripts/Install_Prem.bat)
 
 or
 
 #### Run The following command in PowerShell:
 
 ```ps1
-iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/spotx-official.github.io/main/run.ps1') } -premium -new_theme"
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/StanHardy/SpotS/main/run.ps1'') } -premium -new_theme"
 ```
-
-#### mirror
-
-```ps1
-iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -m -premium -new_theme"
-```
-
 </details>
 
 <details>
@@ -153,19 +125,7 @@ You can specify various parameters for a more flexible installation, more [detai
 
 <h1>Uninstall</h1>
 
-- Just run [Uninstall.bat](https://raw.githack.com/amd64fox/SpotX/main/Uninstall.bat)
-
-or
-
-- Reinstall Spotify ([Full uninstall Spotify](https://github.com/amd64fox/Uninstall-Spotify) recommended)
-
-<h1>FAQ</h1>
-
- Read [FAQ](https://telegra.ph/SpotX-FAQ-09-19)
-
-<h1>Credits</h1>
-
- Some tricks were taken from <a href="https://github.com/khanhas/spicetify-cli">spicetify-cli</a>, many thanks to the contributors.
+- Just run [Uninstall.bat](https://raw.githubusercontent.com/StanHardy/SpotS/main/Uninstall.bat)
 
 <h1>Disclaimer</h1>
 
