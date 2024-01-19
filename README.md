@@ -1,15 +1,4 @@
-  <p align="center">
-  <a href="https://github.com/SpotX-Official/SpotX/releases"><img src="https://spotx-official.github.io/images/logos/logo.png" />
-</p>
-
-<p align="center">        
-      <a href="https://t.me/spotify_windows_mod"><img src="https://spotx-official.github.io/images/shields/SpotX_Channel.svg"></a>
-      <a href="https://t.me/SpotxCommunity"><img src="https://spotx-official.github.io/images/shields/SpotX_Community.svg"></a>
-      <a href="https://github.com/SpotX-Official/SpotX-Bash"><img src="https://spotx-official.github.io/images/shields/SpotX_for_Mac&Linux.svg"></a>
-      <a href="https://telegra.ph/SpotX-FAQ-09-19"><img src="https://spotx-official.github.io/images/shields/faq.svg"></a>
-      </p>
-
-   <h2> <div align="center"><b> Modified Spotify Client for Windows </b></div> </h2>
+<h2> <div align="center"><b> Modified Spotify Client for Windows </b></div> </h2>
 
 <h1>System requirements</h1>
 
